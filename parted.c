@@ -4,7 +4,7 @@
    Detected compiler: GNU C++
 */
 
-#include "defs.h"
+#include <defs.h>
 
 #include <stdarg.h>
 
